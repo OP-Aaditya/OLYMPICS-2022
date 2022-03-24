@@ -1,0 +1,16 @@
+#body_background{
+    background-image: url(back.webp);
+    background-size: cover;
+    background-position: center;
+}
+#my_canvas{
+   
+    border-style: ridge;
+    background-color: white;
+    
+}
+h1{
+    background-color: aqua;
+    color:mediumblue;
+    width:560px;
+}
